@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a 3rd-year BS Information Technology student at Polytechnic University of the Philippines (PUP) – Calauan Campus, aiming to grow as a Full Stack Developer. I build REST APIs and web applications with Java (Spring Boot) and C# (ASP.NET Core), work with MySQL and PostgreSQL, and create responsive front-ends with HTML, CSS, and JavaScript. I also build 2D/3D browser games with JavaScript and Three.js. I learn best by building real projects, like a Swiss-system chess tournament manager used by a local chess club and an e-commerce platform I led as Lead Developer.
+3rd-year BS IT student and aspiring Full Stack Developer. I build complete web applications, from REST APIs with Java (Spring Boot) and C# (ASP.NET Core) to MySQL/PostgreSQL databases and responsive HTML, CSS, and JavaScript front-ends. Built a Swiss-system chess tournament manager used by a local chess club and led development of an e-commerce platform.
 
 * 🌍  I'm based in Parañaque City, Metro Manila, Philippines
 * ✉️  You can contact me at [baldozaanthony2@gmail.com](mailto:baldozaanthony2@gmail.com)
