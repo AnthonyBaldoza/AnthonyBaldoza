@@ -31,6 +31,5 @@ src="https://img.shields.io/github/followers/AnthonyBaldoza?logo=github&style=fo
 
 
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
